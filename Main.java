@@ -10,5 +10,7 @@ public class Main {
         System.out.println("This is java program 5");
 
         System.out.println("This is java program 6");  
+
+        System.err.println("This is java program 7");
     }
 }
